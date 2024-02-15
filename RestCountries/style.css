@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    background: rgb(28,52,60);
+    
+}
+.card{
+    background: linear-gradient(to right, rgb(220,202,163), rgb(101, 117, 116));
+    padding:0px 0px 10px 0px;
+}
+.container{
+    >.row{
+        padding:20px;
+        margin-left: 3px;
+    }
+}
+.card-header{
+    width: 100%;
+}
